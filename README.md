@@ -14,3 +14,5 @@ Meritorious top 3% : 2015 **COMAP** Mathematical Modeling Competition <br>
 
 B.S. Computer Science with a minor in Mathematics, YSU 2015<br>
 Master of Library and Information Science (MLIS) with a focus on Text Mining, Yonsei University 2019
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teryn-j-379ba894/)](https://www.linkedin.com/in/teryn-j-379ba894/)	
