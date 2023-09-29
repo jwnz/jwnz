@@ -1,4 +1,4 @@
-NLP Machine Learning Engineer based in South Korea.
+NLP Research Engineer based in South Korea.
 
 My areas of interest are Machine Learning and Deep Learning, particularly Natural Language Processing (NLP).
 
