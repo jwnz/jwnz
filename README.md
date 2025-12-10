@@ -1,6 +1,5 @@
-NLP Research Engineer.
+AI Software Engineer @ Aleph Alpha Research
 
-My areas of interest are Machine Learning and Deep Learning, particularly Natural Language Processing (NLP).
 
 
 **Awards**:
